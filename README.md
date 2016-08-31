@@ -1,0 +1,1 @@
+This program asks the user for information on a ship in distress, asks for the name of a file where information on Coast Guard ships is held, then shows a table that helps in dispatching Coast Guard ships.
